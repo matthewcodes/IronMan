@@ -1,0 +1,41 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Matthew Wilson",
+    "longName": "Iron Man",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/eyes.png",
+                "name": "EYES",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/face.png",
+                "name": "FACE",
+                "type": "png"
+            },
+            {
+                "file": "images/lip.png",
+                "name": "LIP",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/IRON MAN OF WAR 002 NCV.ttf",
+                "name": "IRON_MAN_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Iron Man",
+    "uuid": "2006a316-fc70-49d9-8e97-5bc0f674ec03",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
